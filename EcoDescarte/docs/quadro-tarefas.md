@@ -7,11 +7,11 @@ Método deste acompanhamento: mover as tarefas de **A fazer** para **Em andament
 ## A fazer
 
 | ID | Tarefa | Responsável | Evidência para concluir |
-| --- | --- | --- | --- |
-| E2-04 | Reproduzir a execução na máquina da apresentação | A definir pela equipe | Aplicação, banco, testes e relatórios funcionando conforme README |
-| E2-05 | Publicar e identificar a versão final no GitHub | A definir pela equipe | Link acessível para o código final e execução da automação conferida |
-| E2-06 | Gravar e publicar vídeo de 3 a 5 minutos | A definir pela equipe | Link do YouTube com evolução, arquitetura, demonstração, tecnologias, testes e resultados |
-| E2-07 | Preencher formulário e conferir submissão | A definir pela equipe | Curso, série, nomes/RAs, título e links reais; prazo e canal conferidos |
+| --- | --- |-------------| --- |
+| E2-04 | Reproduzir a execução na máquina da apresentação | Renan       | Aplicação, banco, testes e relatórios funcionando conforme README |
+| E2-05 | Publicar e identificar a versão final no GitHub | Renan       | Link acessível para o código final e execução da automação conferida |
+| E2-06 | Gravar e publicar vídeo de 3 a 5 minutos | Paulo       | Link do YouTube com evolução, arquitetura, demonstração, tecnologias, testes e resultados |
+| E2-07 | Preencher formulário e conferir submissão | Paulo       | Curso, série, nomes/RAs, título e links reais; prazo e canal conferidos |
 
 ## Em andamento
 
